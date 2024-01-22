@@ -1,1 +1,0 @@
-export { default } from "file:///Users/gabriela.preda/Sites/localhost/project/wordnuxt/wp-content/themes/headless_theme/nuxt-app/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

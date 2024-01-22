@@ -26,10 +26,14 @@ const { data, pending, error, refresh } = await useFetch('https://wordnuxt.test/
 
 <template>
     <div>
-        <Nav />
+
+        <TopNav />
+
         <template v-for="layout in data[0].acf.flexible">    
             <Flexible :layout="layout" />    
         </template>
-        {{ data[0].acf }}
+        
+        <!-- {{ data[0].acf }} -->
+
     </div>
 </template>
