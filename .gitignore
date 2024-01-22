@@ -1,0 +1,6 @@
+# Node dependencies
+nuxt-app/node_modules
+nuxt-app/dist
+
+# Misc
+.DS_Store
