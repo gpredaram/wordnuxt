@@ -9,3 +9,8 @@ Headless theme for using WP as a REST API only and Tailwindcss
 ## Tailwindcss
 
 [Tailwindcss](https://tailwindcss.com/)
+
+
+## Plugins
+
+- Advanced Custom Fields PRO
